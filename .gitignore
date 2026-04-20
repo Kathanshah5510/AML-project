@@ -1,1 +1,5 @@
-/data
+echo "amlvenv/" >> .gitignore
+echo ".amlvenv/" >> .gitignore
+echo "VisDrone/VisDrone_outputs/" >> .gitignore
+echo "checkpoints/" >> .gitignore
+echo "data/" >> .gitignore
